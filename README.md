@@ -1,4 +1,4 @@
-# Airplane-booking-app
+# Airplane-booking-app (C)
 An app that allow users to book flights on the plane and then sort them in the database according to the tiers.
 Description and Concepts:
 1. Creating a singly linked list data structure to store the booking.
