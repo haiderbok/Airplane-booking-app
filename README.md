@@ -7,3 +7,4 @@ Description and Concepts:
 4. Input validation using fgets.
 5. Basic file Input/Output
 6. Using the arguments of main to compile the file
+7. Using make file to create object file and then link them together to get the executable file.
